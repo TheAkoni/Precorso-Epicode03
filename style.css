@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,600&family=Prata&display=swap');
+
+img {
+    width: 100%;
+}
+
+.main-section {
+    padding: 20px;
+}
+
+.image-container {
+    height: 500px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: 'Prata', serif;
+    font-size: 64px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+
+h3 {
+    font-family: 'Prata', serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+}
+
+.link-main {
+    font-weight: 600;
+    font-style: oblique;
+    
+}
+
+h6 {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(to bottom, rgb(10, 10, 10), rgb(214, 124, 7));
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+li {
+    padding: 6px 0px 6px 22px;
+    border-bottom: 1px solid;
+    border-color: #dfdfdf;
+}
+
+.link-list {
+    text-decoration: none;
+}
+
+.link-list-1 {
+    color: rgb(10, 77, 210);
+}
+
+.link-list-2 {
+    color: rgb(158, 6, 29);
+}
+
+.link-list-3 {
+    color: rgb(60, 61, 82);
+}
+
+.link-list-4 {
+    color: rgb(35, 211, 8);
+}
+
+.link-list-5 {
+    color: rgb(219, 198, 6);
+}
+
+.link-list-6 {
+    color: white;
+}
+
+h4 {
+    padding: 6px 0px 6px 22px;
+    border-bottom: 1px solid;
+    border-color: #dfdfdf;
+}
+
+footer {
+    background-color: black;
+    padding: 16px;
+    text-align: center;
+}
